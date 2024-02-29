@@ -1,0 +1,22 @@
+[
+  {
+    "name": "John Doe",
+    "cgpa": 9
+  },
+  {
+    "name": "Alice Smith",
+    "cgpa": 8
+  },
+  {
+    "name": "Emma Johnson",
+    "cgpa": 9
+  },
+  {
+    "name": "Michael Brown",
+    "cgpa": 7
+  },
+  {
+    "name": "Sophia Wilson",
+    "cgpa": 8
+  }
+]
